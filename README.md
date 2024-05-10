@@ -1,0 +1,1 @@
+# Rigging-Script-using-MEL
